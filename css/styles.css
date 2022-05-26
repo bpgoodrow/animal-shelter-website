@@ -1,0 +1,48 @@
+.header {
+  text-align: center;
+  font-weight: bolder;
+}
+.cats {
+  text-align: center;
+  margin: auto;
+  width: 30%;
+  height: auto;
+  display: block;
+  display: inline-block;
+}
+
+.cats img {
+  width: 100%;
+  height: auto;
+}
+.dogs {
+  text-align: center;
+  margin: auto;
+  width: 30%;
+  height: auto;
+  display: block;
+  display: inline-block;
+}
+
+.dogs img {
+  width: 100%;
+  height: auto;
+}
+
+.tinythings {
+  text-align: center;
+  margin: auto;
+  width: 30%;
+  height: auto;
+  display: block;
+  display: inline-block;
+}
+
+.tinythings img {
+  width: 100%;
+  height: auto;
+}
+
+body {
+  font-family: sans-serif;
+}
